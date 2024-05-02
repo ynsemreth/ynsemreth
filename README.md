@@ -1,7 +1,6 @@
-# Welcome to My GitHub Profile!
+#I'm Emre 🚀🚀,
 
-## About Me:
-I'm Yunus Emre, a Junior Computer Vision Engineer passionate about leveraging technology to solve real-world problems.
+##a Junior Computer Vision Engineer passionate about leveraging technology to solve real-world problems.
 
 ### Talking About Personal Stuff:
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Proficient in Python, Pytorch, C++, C, Java, HTML, CSS, and PostgreSQL.
