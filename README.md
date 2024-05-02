@@ -1,6 +1,6 @@
 # Hey I'm Emre 🚀🚀,
 
-## a Junior Computer Vision Engineer passionate about leveraging technology to solve real-world problems.
+## I'm a Junior Computer Vision Engineer passionate about leveraging technology to solve real-world problems.
 
 ### Talking About Personal Stuff:
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Proficient in Python, Pytorch, C++, C, Java, HTML, CSS, and PostgreSQL.
