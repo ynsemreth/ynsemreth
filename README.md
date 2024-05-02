@@ -1,4 +1,4 @@
-# Hey I'm Emre 🚀🚀,
+# Hi I'm Emre 🚀🚀,
 
 ## I'm a Junior Computer Vision Engineer passionate about leveraging technology to solve real-world problems.
 
